@@ -1,1 +1,42 @@
-hola
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PrubeaREFUGIO</title>
+</head>
+
+<body>
+    <section>
+        <div>
+            <p>Hola</p>
+
+
+        </div>
+
+    </section>
+    <div>
+
+        <h1>hola mundo</h1>
+    </div>
+
+    <section>
+        <h3> Holaaaa1</h3>
+    </section>
+
+
+
+    <section>
+        <p>JULIETA</p>
+
+    </section>
+
+    <section>
+
+        <P>BARRERA</P>
+    </section>
+</body>
+
+</html>
